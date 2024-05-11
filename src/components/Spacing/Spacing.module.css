@@ -1,0 +1,42 @@
+.root {
+  --mr: unset;
+  --mb: unset;
+  --ml: unset;
+  --mt: unset;
+  --pr: unset;
+  --pb: unset;
+  --pl: unset;
+  --pt: unset;
+}
+
+._mr {
+  margin-right: var(--mr);
+}
+
+._mb {
+  margin-bottom: var(--mb);
+}
+
+._ml {
+  margin-left: var(--ml);
+}
+
+._mt {
+  margin-top: var(--mt);
+}
+
+._pr {
+  padding-right: var(--pr);
+}
+
+._pb {
+  padding-bottom: var(--pb);
+}
+
+._pl {
+  padding-left: var(--pl);
+}
+
+._pt {
+  padding-top: var(--pt);
+}
