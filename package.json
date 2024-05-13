@@ -1,6 +1,6 @@
 {
   "name": "@mukhindev/react-spacing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Sergey Mukhin",
   "description": "Add margin and padding without creating a DOM-wrapper",
   "keywords": [
